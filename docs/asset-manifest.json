@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/codebar-pairing-tool/static/css/main.4c825787.chunk.css",
-    "main.js": "/codebar-pairing-tool/static/js/main.c97b2bb3.chunk.js",
-    "main.js.map": "/codebar-pairing-tool/static/js/main.c97b2bb3.chunk.js.map",
+    "main.js": "/codebar-pairing-tool/static/js/main.0b61e012.chunk.js",
+    "main.js.map": "/codebar-pairing-tool/static/js/main.0b61e012.chunk.js.map",
     "runtime-main.js": "/codebar-pairing-tool/static/js/runtime-main.c29eab98.js",
     "runtime-main.js.map": "/codebar-pairing-tool/static/js/runtime-main.c29eab98.js.map",
     "static/js/2.7cab6f0d.chunk.js": "/codebar-pairing-tool/static/js/2.7cab6f0d.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.c29eab98.js",
     "static/js/2.7cab6f0d.chunk.js",
     "static/css/main.4c825787.chunk.css",
-    "static/js/main.c97b2bb3.chunk.js"
+    "static/js/main.0b61e012.chunk.js"
   ]
 }
