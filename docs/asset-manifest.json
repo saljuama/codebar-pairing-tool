@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/codebar-pairing-tool/static/css/main.eb8906b5.chunk.css",
+    "main.css": "/codebar-pairing-tool/static/css/main.39873380.chunk.css",
     "main.js": "/codebar-pairing-tool/static/js/main.418b8aae.chunk.js",
     "main.js.map": "/codebar-pairing-tool/static/js/main.418b8aae.chunk.js.map",
     "runtime-main.js": "/codebar-pairing-tool/static/js/runtime-main.c29eab98.js",
@@ -8,7 +8,7 @@
     "static/js/2.998434bf.chunk.js": "/codebar-pairing-tool/static/js/2.998434bf.chunk.js",
     "static/js/2.998434bf.chunk.js.map": "/codebar-pairing-tool/static/js/2.998434bf.chunk.js.map",
     "index.html": "/codebar-pairing-tool/index.html",
-    "static/css/main.eb8906b5.chunk.css.map": "/codebar-pairing-tool/static/css/main.eb8906b5.chunk.css.map",
+    "static/css/main.39873380.chunk.css.map": "/codebar-pairing-tool/static/css/main.39873380.chunk.css.map",
     "static/js/2.998434bf.chunk.js.LICENSE.txt": "/codebar-pairing-tool/static/js/2.998434bf.chunk.js.LICENSE.txt",
     "static/media/newbie.e578ead4.png": "/codebar-pairing-tool/static/media/newbie.e578ead4.png",
     "static/media/pairingCsvImg.d0d3fc48.png": "/codebar-pairing-tool/static/media/pairingCsvImg.d0d3fc48.png"
@@ -16,7 +16,7 @@
   "entrypoints": [
     "static/js/runtime-main.c29eab98.js",
     "static/js/2.998434bf.chunk.js",
-    "static/css/main.eb8906b5.chunk.css",
+    "static/css/main.39873380.chunk.css",
     "static/js/main.418b8aae.chunk.js"
   ]
 }
